@@ -45,4 +45,4 @@ def crop_image(image_path, output_path):
 
 
 # crop_image('../img/segev_and_me.jpg', '../img/segev_and_me2.jpg')
-resize_image('../img/segev_and_me2.jpg', '../img/carousel-1.jpg', (1920, 1080))
+resize_image('../img/segev_and_me2.jpg', '../img/me_and_segev.jpg', (1920, 1080))
